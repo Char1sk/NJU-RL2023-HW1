@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+imgs
+logs
+docs
+ROMS
+
+saves/*.pt
+saves/*.npz
+# saves/FakeDagger*
